@@ -1,0 +1,9 @@
+Upgrade Requirement:
+Optional - Users should update to this version if their system is affected by one of the documented fixes or if there is a desire to utilize any of the enhanced functionality provided by this version.
+
+Gen11 SPP 2023.10.00.00 includes support for the following OS Versions:
+
+    Red Hat Enterprise Linux 8.8
+    Red Hat Enterprise Linux 9.2
+    SUSE Linux Enterprise Server 15 SP5 
+    VMware ESXi 8.0 U2
